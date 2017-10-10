@@ -32,3 +32,4 @@ then
 	exit
 else 
 echo "Please use an appropriate command"
+fi
