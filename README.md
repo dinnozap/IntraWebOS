@@ -1,2 +1,2 @@
 # IntraWebOS
-IntraWebOS is a automatic Intranet deployer
+IntraWebOS is an automatic Intranet deployer
