@@ -21,7 +21,6 @@ clear
 mkdir IntraWebOSMain
 cd IntraWebOSMain
 mkdir Extentions
-cd ..
 echo "Installing..."
 wget -q https://raw.githubusercontent.com/dinnozap/IntraWebOS/master/IWOMain/Menu.sh
 read -p 'Done! do you want to launch the Menu[Y/n]' lMenu
